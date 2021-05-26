@@ -124,3 +124,10 @@ section#play4 h1{
 
 /* Description List Styles */
 
+@font-face	{
+	font-family: Champagne;
+	src: url('cac_champagne.woff') format('woff'),
+	url('cac_champagne.tff') format('truetype'); }
+	
+
+
